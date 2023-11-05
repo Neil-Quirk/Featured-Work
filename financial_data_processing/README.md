@@ -2,7 +2,7 @@
 
 ### The Problem
 
-Thr initial problem was the time and effort it took to create the report manually. 
+The initial problem was the time and effort it took to create the report manually. 
 The sheets used were large and took several minutes to open in excel and just as long to make any changes. 
 The whole process took a single administrator, on average, 45 minutes to complete baring any unexpected 
 errors arising from employee number formatting. Given th extreme time limit required for this report
